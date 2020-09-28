@@ -1,0 +1,7 @@
+{
+  "loanAmount" : 10,
+  "borrower" : {
+    "fullName" : "A"
+  },
+  "loanNumber" : "12321"
+}
